@@ -1,0 +1,64 @@
+.form-group, h1, h2, h3
+{
+  border-bottom: 1px solid #eee;
+  font-size: 36px;
+  line-height: 1;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #FECC00;
+}
+
+.history-heading {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.history-paragraph {
+  text-align: justify;
+  font-size: 1rem;
+}
+
+.content {
+  width: 850px;
+  padding: 100px;
+  margin: auto;
+  background: #F4F3F3;
+}
+.button {
+  background-color: #F4F3F3;
+  border-color: #FECC00;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+}
+.button:hover {
+  background-color: #ddd;
+  color: #FECC00;
+}
+.employees {
+  color: black;
+  padding: 15px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-table;
+  font-size: 13px;
+}
+.blockquote {
+  background: #FCF8F0;
+  border-left: 6px solid #FECC00;
+  color: #3c3e3f;
+  margin: 5rem 0;
+  padding: 2.7rem 5.4rem;
+  font-style: italic;
+}
+.blockquote-text {
+  text-decoration: underline;
+}
+.blockquote-text p {
+  text-align: left;
+}

@@ -1,0 +1,37 @@
+h1, h3
+{
+  border-bottom: 1px solid #eee;
+  font-size: 36px;
+  font-family: "Century Gothic";
+  line-height: 1;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #FECC00;
+}
+
+.content {
+  width: 850px;
+  padding: 100px;
+  margin: auto;
+  background: #F4F3F3;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.news p {
+  text-align: center;
+}
+
+.news span {
+  text-decoration: underline;
+  text-decoration-color: #FECC00;
+}
+.news-table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}

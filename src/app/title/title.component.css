@@ -1,0 +1,40 @@
+:host {
+  font-family: "Roboto";
+}
+
+.logo {
+  border-bottom: 1px solid #eee;
+    font-size: 36px;
+    line-height: 1;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+
+.nav{
+  border:1px solid #FFFF;
+  border-width:1px 0;
+  list-style:none;
+  margin:0;
+  padding:0;
+  text-align:center;
+  background-color: #f2f2f2;
+}
+.nav li{
+  display:inline;
+}
+.nav a{
+  display:inline-block;
+  padding:10px 20px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px
+
+}
+.nav a:hover {
+  background-color: #ddd;
+  color: #FECC00;
+}
+

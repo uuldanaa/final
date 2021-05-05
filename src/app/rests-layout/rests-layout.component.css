@@ -1,0 +1,17 @@
+h1, h3
+{
+  border-bottom: 1px solid #eee;
+  font-size: 36px;
+  line-height: 1;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #FECC00;
+}
+.container {
+  width: 850px;
+  padding: 100px;
+  margin: auto;
+  background-color: #F4F3F3;
+}
