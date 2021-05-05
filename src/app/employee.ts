@@ -1,11 +1,11 @@
-export class List {
+export class Employee {
   id: number;
   name: string;
   status: string;
 
   constructor(id: number,
-  name: string,
-  status: string) {
+              name: string,
+              status: string) {
     this.id = id;
     this.name = name;
     this.status = status;
