@@ -1,0 +1,38 @@
+[
+  {
+    "ID": "FullName",
+    "Label": "ФИО",
+    "Type": "input",
+    "Value":""
+  },
+  {
+    "ID": "Theme",
+    "Label": "Тема мероприятия",
+    "Type": "input",
+    "Value":""
+  },
+  {
+    "ID": "MobileNo",
+    "Label": "Сотовый номер",
+    "Type": "input",
+    "Value":""
+  },
+  {
+    "ID": "Email Id",
+    "Label": "e-mail",
+    "Type": "input",
+    "Value":""
+  },
+  {
+    "ID": "DOP",
+    "Label": "Дата мероприятия",
+    "Type": "date",
+    "Value": ""
+  },
+  {
+    "ID": "Rest",
+    "Label": "Ресторан",
+    "Type": "select",
+    "Value": "Barvilla, Mozarella, Wok-Wok"
+  }
+]
